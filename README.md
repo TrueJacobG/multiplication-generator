@@ -4,4 +4,5 @@
 
 ---
 
-##### React
+##### Stack:
+- React
