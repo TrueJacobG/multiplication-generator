@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multiplication-generator/static/css/main.c7157adc.css",
+    "main.js": "/multiplication-generator/static/js/main.8e831168.js",
+    "index.html": "/multiplication-generator/index.html",
+    "main.c7157adc.css.map": "/multiplication-generator/static/css/main.c7157adc.css.map",
+    "main.8e831168.js.map": "/multiplication-generator/static/js/main.8e831168.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7157adc.css",
+    "static/js/main.8e831168.js"
+  ]
+}
