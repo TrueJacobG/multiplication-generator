@@ -2,8 +2,8 @@ import "./App.css";
 import { useState } from "react";
 
 function App() {
-  const [v1, setV1] = useState(parseInt(Math.random() * 1000) % 6);
-  const [v2, setV2] = useState(parseInt(Math.random() * 1000) % 10);
+  const [v1, setV1] = useState(parseInt(Math.random() * 1000) % 11);
+  const [v2, setV2] = useState(parseInt(Math.random() * 1000) % 11);
   const [input, setInput] = useState("");
 
   const [result, setResult] = useState(false);
